@@ -18,12 +18,12 @@
         <Button Content="+" HorizontalAlignment="Left" Margin="115,80,0,0" VerticalAlignment="Top" Width="30" Height="65" Foreground="#FF00DC0A" BorderBrush="#FF00DC0D" Background="#FF1B1B1B"/>
         <Button Content="6" HorizontalAlignment="Left" Margin="80,115,0,0" VerticalAlignment="Top" Width="30" Height="30" Foreground="#FF00DC0A" BorderBrush="#FF00DC0D" Background="#FF1B1B1B"/>
         <Button Content="4" HorizontalAlignment="Left" Margin="10,115,0,0" VerticalAlignment="Top" Width="30" Height="30" Foreground="#FF00DC0A" BorderBrush="#FF00DC0D" Background="#FF1B1B1B"/>
-        <Button Content="8" HorizontalAlignment="Left" Margin="45,115,0,0" VerticalAlignment="Top" Width="30" Height="30" Foreground="#FF00DC0A" BorderBrush="#FF00DC0D" Background="#FF1B1B1B"/>
+        <Button Content="5" HorizontalAlignment="Left" Margin="45,115,0,0" VerticalAlignment="Top" Width="30" Height="30" Foreground="#FF00DC0A" BorderBrush="#FF00DC0D" Background="#FF1B1B1B"/>
         <Button Content="1" HorizontalAlignment="Left" Margin="10,150,0,0" VerticalAlignment="Top" Width="30" Height="30" Foreground="#FF00DC0A" BorderBrush="#FF00DC0D" Background="#FF1B1B1B"/>
         <Button Content="2" HorizontalAlignment="Left" Margin="45,150,0,0" VerticalAlignment="Top" Width="30" Height="30" Foreground="#FF00DC0A" BorderBrush="#FF00DC0D" Background="#FF1B1B1B"/>
         <Button Content="3" HorizontalAlignment="Left" Margin="80,150,0,0" VerticalAlignment="Top" Width="30" Height="30" Foreground="#FF00DC0A" BorderBrush="#FF00DC0D" Background="#FF1B1B1B"/>
         <Button Content="0" HorizontalAlignment="Left" Margin="10,185,0,0" VerticalAlignment="Top" Width="65" Height="30" Foreground="#FF00DC0A" BorderBrush="#FF00DC0D" Background="#FF1B1B1B"/>
         <Button Content="." HorizontalAlignment="Left" Margin="80,185,0,0" VerticalAlignment="Top" Width="30" Height="30" Foreground="#FF00DC0A" BorderBrush="#FF00DC0D" Background="#FF1B1B1B"/>
-        <Button Content="+" HorizontalAlignment="Left" Margin="115,150,0,0" VerticalAlignment="Top" Width="30" Height="65" Foreground="#FF00DC0A" BorderBrush="#FF00DC0D" Background="#FF1B1B1B"/>
+        <Button Content="=" HorizontalAlignment="Left" Margin="115,150,0,0" VerticalAlignment="Top" Width="30" Height="65" Foreground="#FF00DC0A" BorderBrush="#FF00DC0D" Background="#FF1B1B1B"/>
     </Grid>
 </Window>
